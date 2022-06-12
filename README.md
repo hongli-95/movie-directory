@@ -1,2 +1,2 @@
 # movie-directory
-A movie directory that can search for movies and direct to the corresponding IMDb pages.
+A movie directory site built with React that can search for movies and direct to the corresponding IMDb pages.
