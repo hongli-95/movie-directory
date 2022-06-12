@@ -7,7 +7,7 @@ import BackToTop from './components/BackToTop';
 import './App.css';
 
 //5db94f24
-const api_url = 'http://www.omdbapi.com?apikey=5db94f24';
+const api_url = 'https://www.omdbapi.com?apikey=5db94f24';
 
 function App() {
   //set states for movies and the search term
